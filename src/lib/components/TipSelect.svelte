@@ -14,7 +14,7 @@
   <Label>
     Select Tip %
   </Label>
-  
+
   <fieldset  class=" appearance-none grid  grid-cols-3 outline-none border-none gap-4 p-0 mt-4" name="" id="">
     {#each $options as [value,key]}
     {#if key !=="Custom"}

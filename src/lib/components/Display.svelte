@@ -10,7 +10,7 @@
 </script>
 
 <div class="w-full h-full bg-very-dark-cyan rounded-xl flex flex-col justify-between items-start ">
-  <div class="flex flex-col items-center justify-center">
+  <div class="flex flex-col items-center justify-center w-full">
     <TipAmount />
     <TotalAmount />
   </div>
