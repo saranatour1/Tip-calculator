@@ -1,9 +1,11 @@
 <script>
   import TipAmount from "./TipAmount.svelte";
   import TotalAmount from "./TotalAmount.svelte";
-
+  import { total, tipAmount} from '../store';
+  
   const reset = ()=>{
-    
+    $total =0;
+
   }
 </script>
 
