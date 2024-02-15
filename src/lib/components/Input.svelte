@@ -7,7 +7,7 @@
   export let disabled = false;
   export let min = 0;
   export let max = 100;
-  export let value = 0;
+  export let value;
 
 </script>
 

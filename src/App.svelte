@@ -14,7 +14,7 @@
 </script>
 
 <main class=" min-h-screen w-full max-w-full bg-light-grayish-cyan flex flex-col justify-start items-start">
-  <span class="mx-auto uppercase pt-40 max-md:pt-20 font-space-mono tracking-[10px] text-2xl text-very-dark-cyan font-bold w-full max-w-1/2 text-clip text-wrap text-center">
+  <span class="mx-auto uppercase pt-40 max-md:pt-20 font-space-mono tracking-[10px] text-2xl text-grayish-cyan-1 font-bold w-full max-w-1/2 text-clip text-wrap text-center">
     spli<br /> tter
   </span>
   <Wrapper>
