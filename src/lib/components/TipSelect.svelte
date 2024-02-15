@@ -8,7 +8,6 @@
     $tipPercentage = value;
   }
 
-  $:console.log("Tip Percentage",$tipPercentage)
 </script>
 
 <label class="w-full">

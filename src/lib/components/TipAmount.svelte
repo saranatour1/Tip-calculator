@@ -7,7 +7,6 @@
   }
 
   $: tipAmountPerPerson = ($total * ($tipPercentage / 100)) / $numberOfPeople;
-console.log("total tip per person", tipAmountPerPerson);
 
 </script>
 
